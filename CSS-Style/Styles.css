@@ -35,14 +35,13 @@ vertical-align: middle;
 .new{
     position: relative;
     height: 350px;
-    left: 35%
-
 }
 .line1{
   position: absolute;
   text-align: center;
   font-size: 5em;
   color: #38A3A5;
+  left: 35%;
   font-family: 'Dancing Script', cursive;
 }
 
